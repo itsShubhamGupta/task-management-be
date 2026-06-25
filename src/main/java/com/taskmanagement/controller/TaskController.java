@@ -58,7 +58,7 @@ public class TaskController {
         return ResponseEntity.noContent().build();
     }
 
-    @GetMapping("/summary")
+        @GetMapping("/summary")
     public ResponseEntity<TaskSummary> getSummary() {
         return ResponseEntity.ok(taskService.getSummary());
     }
