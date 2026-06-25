@@ -1,0 +1,12 @@
+com\taskmanagement\dto\ErrorResponse.class
+com\taskmanagement\exception\GlobalExceptionHandler.class
+com\taskmanagement\model\Task.class
+com\taskmanagement\dto\StatusUpdateRequest.class
+com\taskmanagement\service\TaskService.class
+com\taskmanagement\model\TaskStatus.class
+com\taskmanagement\exception\TaskNotFoundException.class
+com\taskmanagement\controller\TaskController.class
+com\taskmanagement\dto\TaskSummary.class
+com\taskmanagement\dto\TaskRequest.class
+com\taskmanagement\TaskManagementApplication.class
+com\taskmanagement\service\TaskService$1.class

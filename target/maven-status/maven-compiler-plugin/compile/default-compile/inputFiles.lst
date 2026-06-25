@@ -1,0 +1,11 @@
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\exception\GlobalExceptionHandler.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\dto\TaskRequest.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\dto\StatusUpdateRequest.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\dto\TaskSummary.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\model\Task.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\exception\TaskNotFoundException.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\service\TaskService.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\controller\TaskController.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\TaskManagementApplication.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\dto\ErrorResponse.java
+E:\project\task-manager\task-management-backend\src\main\java\com\taskmanagement\model\TaskStatus.java
